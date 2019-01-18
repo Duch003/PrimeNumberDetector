@@ -33,17 +33,12 @@ namespace PrimeNumberDetector
                 Console.ReadLine();
             } while (true);
         }
-        //Check
+
         private static void Introduce()
         {
             Console.WriteLine("This is prime number detecor. I will check if given number is a number, " +
                               "a prime number, count all factorials and print all prime factorials. Have fun!");
             Console.Write("Type Your number: ");
-        }
-
-        private static void Check()
-        {
-
         }
 
         private static void InputNotNumber()
