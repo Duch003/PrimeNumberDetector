@@ -1,0 +1,7 @@
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\bin\Debug\PrimeNumberDetector.exe.config
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\bin\Debug\PrimeNumberDetector.exe
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\bin\Debug\PrimeNumberDetector.pdb
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\obj\Debug\PrimeNumberDetector.csprojAssemblyReference.cache
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\obj\Debug\PrimeNumberDetector.csproj.CoreCompileInputs.cache
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\obj\Debug\PrimeNumberDetector.exe
+C:\Users\Duch003\source\repos\PrimeNumberDetector\PrimeNumberDetector\obj\Debug\PrimeNumberDetector.pdb
